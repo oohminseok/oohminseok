@@ -8,11 +8,16 @@
 현재 게임 클라이언트 프로그래머 지망생이며 C++공부중입니다.
 
 
-🛠️TechStack🛠️
+📚TechStack📚
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-flat&logo=C&logoColor=white">
 
+ 
+ 🌈Follow Me🌈
+<a href="mailto:osuk99670@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
+ 
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oohminseok&layout=demo&theme=merko)
