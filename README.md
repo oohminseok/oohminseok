@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=oohminseok%20GitHub&fontSize=50)
 
-                        안녕하세요! 게임 클라이언트 프로그래머 지망생 현재 공부 중입니다.
-
+- ✨반갑습니다✨
+- 현재 게임 클라이언트 프로그래머 지망생이며 C++공부중입니다.
 
 <!--
 **oohminseok/oohminseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
