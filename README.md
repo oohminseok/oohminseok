@@ -4,7 +4,7 @@
                         - 현재 게임 클라이언트 프로그래머 지망생이며 C++공부중입니다.
 
                                               🛠️TackStack🛠️
-<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
 
 <!--
 **oohminseok/oohminseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
