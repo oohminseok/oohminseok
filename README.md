@@ -1,8 +1,8 @@
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=oohminseok%20GitHub&fontSize=50)
 <!--
 **oohminseok/oohminseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=oohminseok%20GitHub&fontSize=50)
+
 
 Here are some ideas to get you started:
 
