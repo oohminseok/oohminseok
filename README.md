@@ -22,7 +22,7 @@
  
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oohminseok&layout=demo&theme=merko)
+
 
 
 
