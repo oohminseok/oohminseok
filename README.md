@@ -21,7 +21,7 @@
 </p>
  
  ![ohminseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)  
- 
+ <a href="https://github.com/ohminseok"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohminseok8&layout=compact&theme=nord&hide_border=true" /></a> 
  
 </div>
 
