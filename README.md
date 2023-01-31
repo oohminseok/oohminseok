@@ -20,7 +20,7 @@
  <a href="mailto:osuk99670@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
  
- ![oohminseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)  
+ ![oohminseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=oohminseok&show_icons=true&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oohminseok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
