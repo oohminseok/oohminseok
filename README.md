@@ -20,6 +20,9 @@
  <a href="mailto:osuk99670@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
  
+ ![ohminseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)  
+ 
+ 
 </div>
 
 
